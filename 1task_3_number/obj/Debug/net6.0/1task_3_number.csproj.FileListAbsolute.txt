@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\bin\Debug\net6.0\1task_3_number.exe
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\bin\Debug\net6.0\1task_3_number.deps.json
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\bin\Debug\net6.0\1task_3_number.runtimeconfig.json
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\bin\Debug\net6.0\1task_3_number.dll
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\bin\Debug\net6.0\1task_3_number.pdb
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\1task_3_number.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\1task_3_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\1task_3_number.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\1task_3_number.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\1task_3_number.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\1task_3_number.dll
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\refint\1task_3_number.dll
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\1task_3_number.pdb
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\1task_3_number.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Sem_Prost_Algoritm\1task_3_number\obj\Debug\net6.0\ref\1task_3_number.dll
